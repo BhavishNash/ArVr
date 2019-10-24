@@ -8,7 +8,7 @@ Ks 0.025000 0.025000 0.025000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd M-FF_iOS_HERO_Tony_Stark_Iron_Man_Civil_War_Body_D.png
+map_Kd iron_man.png
 
 
 newmtl MFF_iOS_HER_TST_CWA_A
@@ -19,7 +19,7 @@ Ks 0.025000 0.025000 0.025000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd M-FF_iOS_HERO_Tony_Stark_Iron_Man_Civil_War_Body_D.png
+map_Kd iron_man.png
 
 
 newmtl MFF_iOS_HER_TST_CWA_W
@@ -30,6 +30,6 @@ Ks 0.025000 0.025000 0.025000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd M-FF_iOS_HERO_Tony_Stark_Iron_Man_Civil_War_Body_D.png
+map_Kd iron_man.png
 
 
